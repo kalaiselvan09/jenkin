@@ -9,6 +9,7 @@ public class FirstProgram {
 
 		System.out.println("Sum of these numbers: " + sum);
 		System.out.println("kalaiselvan: " + sum);//newly added
+		System.out.println("kalaiselvan");//newly added
 		
 	}
 }
