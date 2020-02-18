@@ -8,5 +8,7 @@ public class FirstProgram {
 		sum = num1 + num2;
 
 		System.out.println("Sum of these numbers: " + sum);
+		System.out.println("kalaiselvan: " + sum);//newly added
+		
 	}
 }
